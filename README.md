@@ -1,20 +1,30 @@
 # my-first-webpage
 First web page HTML/CSS
 
-# {simple website}
-#### {a list of things that are my favourite}, {07-02-2018}
-#### By **{Levi Mugala}**
+# Author
+* Levi Mugala
+
+# simple website
+#### A list of things that are my favourite, 07-02-2018
+
 ## Description
-{This is a simple web [age that I am building it serves as a practice web page to improve my skills in HTML and CSS }
+This is a simple web page that I am building it serves as a practice web page to improve my skills in HTML and CSS 
+
 ## Setup/Installation Requirements
-*1no setup/installation required just click on the link {}
-{No bugs }
+No setup/installation required.
+
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs
+
 ## Technologies Used
-{Used only HTML and CSS}
-## Support and contact details: mugalalevi21@gmail.com 
-{Contact me if you have any issue with the code or if you would like to contribute}
+* HTML
+* CSS
+
+## Support and contact details: 
+
+`mugalalevi21@gmail.com` 
+#### Contact me if you have any issue with the code or if you would like to contribute
+
 ### License
-*{MIT.}*
-Copyright (c) {2018} **{Moringa school}**
+*MIT.*
+Copyright (c) 2018 **Moringa school**
